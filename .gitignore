@@ -1,0 +1,10 @@
+# Ignore all JSON files
+*.json
+
+# Ignore specific directories
+/path/to/data/
+/path/to/another-sensitive-directory/
+
+# Ignore other specific files
+secrets.txt
+node_modules
